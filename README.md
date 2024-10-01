@@ -257,3 +257,5 @@ body {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
 }
+https://www.google.com/search?q=reator+nuclear&sca_esv=2f8623b159e229b7&sca_upv=1&rlz=1C1CHZN_pt-BRBR1130US1130&udm=2&biw=1366&bih=641&ei=UOz7ZuH5DIvIwN4P68qS6Ac&oq=reator+&gs_lp=Egxnd3Mtd2l6LXNlcnAiB3JlYXRvciAqAggBMgoQABiABBhDGIoFMgsQABiABBixAxiDATIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESJA7UK0QWOwlcAF4AJABAJgBpAKgAeISqgEEMi0xMLgBAcgBAPgBAZgCB6AClAvCAgYQABgIGB7CAgcQABiABBgYmAMAiAYBkgcFMS4wLjagB44z&sclient=gws-wiz-serp&safe=active&ssui=on#vhid=kTwXwZ_UxDLcGM&vssid=mosaic
+https://www.google.com/search?q=ms+olympia+2002&sca_esv=2f8623b159e229b7&sca_upv=1&rlz=1C1CHZN_pt-BRBR1130US1130&udm=2&biw=1366&bih=641&ei=xuz7Zr-TIfK9p84PlruukAg&ved=0ahUKEwi_jqKNme2IAxXy3skDHZadC4IQ4dUDCBA&uact=5&oq=ms+olympia+2002&gs_lp=Egxnd3Mtd2l6LXNlcnAiD21zIG9seW1waWEgMjAwMki7IlCfCFiPHXABeACQAQCYAbwCoAHNCaoBBTItNC4xuAEDyAEA-AEBmAIFoALiCMICBRAAGIAEwgIGEAAYBxgewgIEEAAYHsICBxAAGIAEGBPCAggQABgTGAUYHsICCBAAGBMYCBgemAMAiAYBkgcHMS4wLjMuMaAHnRI&sclient=gws-wiz-serp&safe=active&ssui=on#vhid=g9A2f4P1WNJviM&vssid=mosaic
